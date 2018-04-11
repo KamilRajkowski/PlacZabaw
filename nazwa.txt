@@ -1,0 +1,6 @@
+zajêcia z GIT
+
+tekst konfliktu
+pierwszy commit
+
+Kamil Rajkowski
