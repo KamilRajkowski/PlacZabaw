@@ -1,6 +1,6 @@
 zajêcia z GIT
 
 tekst konfliktu
-pierwszy commit
+drugi commit
 
 Kamil Rajkowski
