@@ -3,4 +3,6 @@ zajêcia z GIT
 tekst konfliktu
 drugi commit
 
-Kamil Rajkowski sie commituje
+Kamil Rajkowski 
+
+albo sobie posiedzi tu
